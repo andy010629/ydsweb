@@ -1,0 +1,92 @@
+{
+  "title": "悅刻拋棄式煙彈",
+  "slug": "disposable",
+  "url": "https://www.bababoitw8.com/disposable",
+  "ctaLabel": "口味選擇",
+  "products": [
+    {
+      "slug": "sp2s-煙彈",
+      "t1": "SP2S 煙彈",
+      "t2": "通用RELX 悅刻一代",
+      "price": "$350 (3入)",
+      "img": "a14f67_271916bda1a749fc8b017608d7c088d6~mv2.jpg",
+      "description": null,
+      "gallery": [
+        "a14f67_271916bda1a749fc8b017608d7c088d6~mv2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "slug": "relx4-5-6代-空煙彈-空殼",
+      "wixSlug": "【relx4/5/6代】空煙彈/空殼-",
+      "t1": "【RELX4/5/6代】空殼",
+      "t2": "通用RELX悅刻 (4/5/6代)",
+      "price": "$350",
+      "img": "a14f67_2180f8d3c6324379825a810cb804ece5~mv2.jpg",
+      "description": null,
+      "gallery": [
+        "a14f67_2180f8d3c6324379825a810cb804ece5~mv2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "slug": "風暴relx4-5代煙彈-單入",
+      "wixSlug": "風暴relx4/5代煙彈(單入)",
+      "t1": "風暴RELX4/5代煙彈",
+      "t2": "買10顆送1顆",
+      "price": "$120/單顆",
+      "img": "a14f67_8f2d80953cb747b588ff089afb36d43c~mv2.png",
+      "description": null,
+      "gallery": [
+        "a14f67_8f2d80953cb747b588ff089afb36d43c~mv2.png"
+      ],
+      "variants": []
+    },
+    {
+      "slug": "cloudy-煙彈",
+      "t1": "Cloudy 煙彈",
+      "t2": "通用RELX 悅刻一代",
+      "price": "$120 (1入)",
+      "img": "a14f67_50e3a0d765fe4918a3c78bd77270cd69~mv2.jpeg",
+      "description": null,
+      "gallery": [
+        "a14f67_b097cd747204476d9bb787f3bce606ba~mv2.jpg",
+        "a14f67_12c7974252e5450493b37a80e1e4a71c~mv2.jpg",
+        "a14f67_9706744d807d4474aa6072757f605f9e~mv2.jpg",
+        "a14f67_f92a07cdb3914696b5295e75d070d8e5~mv2.jpeg",
+        "a14f67_50e3a0d765fe4918a3c78bd77270cd69~mv2.jpeg",
+        "a14f67_f732fe549c4140ccb402c5fff65841e3~mv2.jpg",
+        "a14f67_ee7ed75de2ec4cfe97379746a1fb9d5b~mv2.jpeg",
+        "a14f67_1a278d481cb14535a2d605887f2b9b01~mv2.jpg",
+        "a14f67_464be1392cc64459ade777803ca9dfa7~mv2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "slug": "ilia-發光煙彈",
+      "t1": "ILIA 煙彈",
+      "t2": "通用RELX悅刻一代",
+      "price": "$350 (3入)",
+      "img": "a14f67_232d8cb9875f44178a9e27711c16f690~mv2.jpg",
+      "description": null,
+      "gallery": [
+        "a14f67_232d8cb9875f44178a9e27711c16f690~mv2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "slug": "empty空煙彈",
+      "t1": "悅刻一代空煙彈 (空殼)",
+      "t2": "通用RELX悅刻一代",
+      "price": "$300 (3入)",
+      "img": "a14f67_b5f4b75887ab426b92e10f8937124c6f~mv2.jpg",
+      "description": null,
+      "gallery": [
+        "a14f67_b5f4b75887ab426b92e10f8937124c6f~mv2.jpg",
+        "a14f67_812ba87c0d944fd2a43141abd8de83b0~mv2.jpg",
+        "a14f67_b184536db4c24e5488ea777446d6c42b~mv2.jpg"
+      ],
+      "variants": []
+    }
+  ]
+}
