@@ -1,0 +1,62 @@
+{
+  "title": "大煙主機",
+  "slug": "prokit",
+  "url": "https://www.bababoitw8.com/prokit",
+  "ctaLabel": "詳細資料",
+  "products": [
+    {
+      "slug": "ipv-v200-box-mod-【停產】",
+      "t1": "IPV V200",
+      "t2": "Box Mod 【停產】",
+      "d1": "200瓦雙電池主機",
+      "d2": "可定制風味曲線",
+      "price": "$2700",
+      "img": "a14f67_37e1574395ad48ed93aefa912f196249~mv2.jpg",
+      "alt": "IPV V200",
+      "description": "IPV V200 Mod 是一款功能強大的 200W 雙電池主機\n具有智能的設備上可定制風味曲線\nIPV V200 Mod 由防水的 YIHI SX531 芯片供電，具有快速均衡充電\nIPV V200 功率輸出高達 200 瓦，0.96 英寸 TFT 顯示屏清晰顯示數據\n由鋅合金和陽極氧化鋁製成以提供多重保護\nIPV V200 具有弱、正常、強、自定義 SXi-EQ 曲線、EQ1-EQ3 的智能設備上可定制風味曲線。\n（弱 - 功率以 50% 左右的較低速率開始並緩慢增加到 100%；正常 - 功率保持在 100%；強 - 功率以 150% 左右的較高速率開始，然後緩慢下降到 100%）\n\n產品規格：\n尺寸：90.6 x 48 mm\n電池：雙 18650 電池（不包括在內）\n芯片：YIHI SX531\n材料：鋅合金和鋁體和 ABS\n輸出：5-200W\n電壓：6.4-8.4V\n電阻：0.1-1.0 ohm\n充電：5V /2A 快速充電\n顯示屏：0.96 英寸 TFT\n\n產品功能：\n防水 YIHI SX531 Chipest\n0.96 英寸 TFT 顯示屏\n智能風味曲線\n5V/2A 快速平衡充電-可充電\n磁鐵側電池蓋\n510轉接器\n\n內容物：\nIPV V200 Mod 主機*1\nType-C 電纜*1\n用戶手冊*1\n\nSX 霧化器\n$1200\n霧化芯(一盒5入)\n0.17 & 0.4\n$550",
+      "gallery": [
+        "a14f67_c0632f288eba4fc2b8ed51ef8bd1b934~mv2.jpg",
+        "a14f67_588f710a7c2c4e92b6610e0b3384c02a~mv2.jpg",
+        "a14f67_37e1574395ad48ed93aefa912f196249~mv2.jpg",
+        "a14f67_d6c663dd87de4a4da18a0d001627b774~mv2.webp"
+      ],
+      "variants": []
+    },
+    {
+      "slug": "sxmini-g-class-v2-box-mod-200w【停產】",
+      "t1": "SXmini G Class V2",
+      "t2": "Box Mod 200W【停產】",
+      "d1": "第 4 代溫度控制",
+      "d2": "智能計數器",
+      "price": "$7800",
+      "img": "a14f67_c32d885dcc804b32b2abd6f1630c22fa~mv2.jpg",
+      "alt": "SXmini G Class V2",
+      "description": "產品特點： \n雙電池主機\n空中升級 (OTA)\n第 4 代溫度控制 - 歐姆讀取精度為 0.0001Ω\n動態壁紙、主題和語言包\n2 CPU - UI 專用 + Vaping 專用 CPU - 兩種\n溫度調製可供選擇，和簡單，更容易設置\n電池過載通知 - 基於您的 CDR！\n連接到 WiFi時\n根據您的日程安排自動重置的每日抽吸計數器\n可調節截止時間\n\n產品規格：\n尺寸：94 x 47.7 x 34.3mm \n芯片組：SX750\n電池：2 x 18650 \n510 直徑：30mm\n線圈電阻：0.05-3.0 ohm\n溫度範圍：100℃-300℃ / 212℉-572℉\n材料：鋅合金，鋁和ABS \n電池面板充電率：5V/2A\n功率範圍：10-200W\n輸出電壓：0.7-6V\n待機電流：<20μA溫度Ω\n讀取精度：0.0001Ω\n\n內容物：\nSXmini G Class V2 Mod 主機*1\nUSB Type-C 數據線*1\n用戶手冊*1\n保修卡*1\n\nSX霧化器\n$1200\n霧化芯(一盒5入)\n$550\n0.17Ω\n0.4Ω",
+      "gallery": [
+        "a14f67_72f7d947218f4a1d8b1e5428523e5545~mv2.jpg",
+        "a14f67_10ac7b6971c54b5998c19d41dc0c8281~mv2.jpg",
+        "a14f67_378c2db493c64280b3a22dab9b730ba9~mv2.jpg"
+      ],
+      "variants": []
+    },
+    {
+      "slug": "sxmini-sl-class-v2-box--mod-sl2-100w-【停產】",
+      "t1": "SXmini SL Class V2 Box",
+      "t2": "Mod SL2 100W 【停產】",
+      "d1": "精美雕刻 | 金屬風格",
+      "d2": "單個高安培電池供電",
+      "price": "$5300",
+      "img": "a14f67_d4f0f535b40448169331df5b66a75ce1~mv2.jpg",
+      "alt": "SXmini SL Class V2",
+      "description": "產品特點：\nSX SL Class V2 Box Mod\n外觀帶有精美雕刻的金屬風格\n由單節 18650/20700/21700 電池供電，最大輸出功率為 100W\nYiHi SXmini SL Class V2 Mod 具有 YiHi SX730 芯片組和 VW、VV、TC 模式，以滿足不同的需求\nSXmini SL Class V2 配備 0.96 英寸 IPS-Farb-Display 以顯示電子煙信息\nSXmini SL Class V2 Box Mod，具有 5-100W 輸出範圍，溫度控制套件，由單個高安培電池供電\nSL Class V2 Mod 由耐用的鋅合金製成，可提供強大的動力，並能夠控制溫度，以提供您最喜歡的可重建霧化器的出色性能\n\n產品規格：\n尺寸：89.1*42.95*30.17mm\n電池：單節 18650/20700/21700 電池（不含）\n提供電池適配器\n輸出：100W\n模式：VW、VV、TC 模式\n風味模式：溫和、正常、濃烈、SXi-EQ1、SXi-EQ2、SXi-EQ3\n屏幕尺寸：0.96 英寸 IPS-Farb 屏幕\n\n性能特點：\n電阻範圍：0.15~3.0ohm（VW模式）/0.1~3.0ohm（TC模式）\n風味模式：柔和、普通、強烈、SXi-EQ1、SXi-EQ2、SXi-EQ3\n最大充電：5V/1A，Type-C\n輸出電流：3.1A~32A\n輸入電流：1.4A~30A\n屏幕開啟電流：45mA\n靜態電流：10\n掉電電流：10\n輸出電壓：0.7V\n輸出電流：32A\n\n內容物：\n1 x SX SL Class V2 Mod\n1 x Type-C USB 充電線\n1 x 用戶手冊\n1 個電池適配器\n\nSX霧化器\n$1200\n霧化芯(一盒5入)\n0.17 & 0.4\n$550",
+      "gallery": [
+        "a14f67_3e73aa04b90b4ebb9206a8b667bf55de~mv2.jpg",
+        "a14f67_5a03efd551bd43d08126c599af473d08~mv2.jpg",
+        "a14f67_662d1f857be24c2ca0a419c2bcc25f3c~mv2.webp",
+        "a14f67_a7f14d7faacf4a62b7dfce21c90c408a~mv2.jpg",
+        "a14f67_d612b222a933447a924d79d988a8107d~mv2.jpg"
+      ],
+      "variants": []
+    }
+  ]
+}

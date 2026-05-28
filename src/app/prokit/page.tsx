@@ -1,6 +1,6 @@
 import { CategoryShell } from "@/components/CategoryShell";
 import { ProductGrid } from "@/components/ProductGrid";
-import data from "../../../docs/research/products/prokit.json";
+import data from "@/data/products/prokit.json";
 
 export const metadata = { title: "大煙主機 | 煙島桑" };
 

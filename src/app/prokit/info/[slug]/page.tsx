@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import { CategoryShell } from "@/components/CategoryShell";
 import { ProductDetail } from "@/components/ProductDetail";
 import { findProduct, staticParamsFor, type Category } from "@/lib/products";
-import data from "../../../../../docs/research/products/prokit.json";
+import data from "@/data/products/prokit.json";
 
 const cat = data as Category;
 

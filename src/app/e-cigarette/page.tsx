@@ -1,6 +1,6 @@
 import { CategoryShell } from "@/components/CategoryShell";
 import { ProductGrid } from "@/components/ProductGrid";
-import data from "../../../docs/research/products/e-cigarette.json";
+import data from "@/data/products/e-cigarette.json";
 
 export const metadata = { title: "加熱煙專區 | 煙島桑" };
 

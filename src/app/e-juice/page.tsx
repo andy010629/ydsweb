@@ -1,6 +1,6 @@
 import { CategoryShell } from "@/components/CategoryShell";
 import { ProductGrid } from "@/components/ProductGrid";
-import data from "../../../docs/research/products/e-juice.json";
+import data from "@/data/products/e-juice.json";
 
 export const metadata = { title: "進口小煙油 | 煙島桑" };
 

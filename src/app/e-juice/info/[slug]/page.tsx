@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import { CategoryShell } from "@/components/CategoryShell";
 import { ProductDetail } from "@/components/ProductDetail";
 import { findProduct, staticParamsFor, type Category } from "@/lib/products";
-import data from "../../../../../docs/research/products/e-juice.json";
+import data from "@/data/products/e-juice.json";
 
 const cat = data as Category;
 

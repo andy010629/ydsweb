@@ -1,6 +1,6 @@
 import { CategoryShell } from "@/components/CategoryShell";
 import { ProductGrid } from "@/components/ProductGrid";
-import data from "../../../docs/research/products/starterkit.json";
+import data from "@/data/products/starterkit.json";
 
 export const metadata = { title: "小煙主機 | 煙島桑" };
 
